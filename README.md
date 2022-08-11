@@ -1,6 +1,4 @@
 # Desafio 2 projeto linux
-Projeto 2 desafio
 
-"Atualizando o servidor..."
+Script para provisionamento de um servidor Apache (projeto integrante curso de Linux da DIO)
 
-"Baixando e copiando os arquivos da aplicação..."
